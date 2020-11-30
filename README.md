@@ -4,5 +4,4 @@
 
 👨‍💻 Currently Working at [gojek](https://gojek.io) as a Product Engineer, mostly on the backend and devops technologies. My daily work includes updating my tasks on **jira**, working with the higly scalable backend microservices and lambda actors written in **golang, ruby, clojure and java** attached to **postgreSQL** database and **redis** cache, write loads of tests (sometimes before the code, aka **TDD**), deploying these changes to integration and eventually to production using **Continuous Integration and Git** and ofcourse monitoring them using **NewRelic and Graphana**.        
 
-✨ On the side, I am currently exploring Deep Neural Networks and Web App development using React and NodeJS! 
-
+✨ On the side, I am currently exploring Deep Neural Networks and Web App development.
